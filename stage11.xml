@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<signlang>
+		<level levelID = "1" levelUnlock = "1" levelClear = "0" levelWord = "kucing" levelPlayTime = "60" levelLastTime = "0" levelRateCompletion = "0">
+			level 1
+		</level>
+		<level levelID = "2" levelUnlock = "1" levelClear = "0" levelWord = "anjing" levelPlayTime = "55" levelLastTime = "0" levelRateCompletion = "0">
+			level 2
+		</level>
+		<level levelID = "3" levelUnlock = "1" levelClear = "0" levelWord = "kelinci" levelPlayTime = "50" levelLastTime = "0" levelRateCompletion = "0">
+			level 3
+		</level>
+		<level levelID = "4" levelUnlock = "1" levelClear = "0" levelWord = "kurakura" levelPlayTime = "50" levelLastTime = "0" levelRateCompletion = "0">
+			level 4
+		</level>
+		<level levelID = "5" levelUnlock = "1" levelClear = "0" levelWord = "burungbeo" levelPlayTime = "50" levelLastTime = "0" levelRateCompletion = "0">
+			level 5
+		</level>
+</signlang>
+</xml>

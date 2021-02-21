@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<signlang>
+	<stage stageID = "1" stageUnlock = "1" stageClear = "0" stageCategory = "pet" stageTotalLevel = "5" stageTotalLevelUnlock = "1" stageTotalLevelClear = "0" stageHighScore = "0">
+		Stage 1
+	</stage>
+
+	<stage stageID = "2" stageUnlock = "1" stageClear = "0" stageCategory = "farm" stageTotalLevel = "5" stageTotalLevelUnlock = "1" stageTotalLevelClear = "0" stageHighScore = "0">
+		Stage 2
+	</stage>
+
+	<stage stageID = "3" stageUnlock = "1" stageClear = "0" stageCategory = "wild" stageTotalLevel = "5" stageTotalLevelUnlock = "1" stageTotalLevelClear = "0" stageHighScore = "0">
+		Stage 3
+	</stage>
+</signlang>
+</xml>
